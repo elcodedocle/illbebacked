@@ -1,0 +1,12 @@
+hostname="localhost"
+port=3306
+user=root
+#password="mypassword"
+#overwriteOutputFile=false
+#useMysqlCli=true
+#dropDatabaseIfExists=false
+
+#these options can be overriden from the command line
+#dbName="mydb"
+#inputFilename="input.sql"
+#outputFilename="output.sql"

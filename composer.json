@@ -1,0 +1,11 @@
+{
+    "name": "elcodedocle/illbebacked",
+    "type": "dbbackup",
+    "description": "A MySQL database backup and load tool",
+    "keywords": ["MySQL DB backup", "MariaDB backup", "DB backup and recovery tool", "load .sql file", "mysql", "mysqldump", "dump to .sql file", "PHP CLI MySQL backup tool"],
+    "homepage": "https://github.com/elcodedocle/illbebacked",
+    "license": "MIT Expat",
+    "require": {
+        "php": ">=5.3"
+    }
+}
