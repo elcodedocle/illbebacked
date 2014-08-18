@@ -53,6 +53,7 @@ php /path/to/illbebackedcli.php -i input.sql database
 Backup current database and overwrite it with `input.sql`:
 ```bash
 php /path/to/illbebackedcli.php -i input.sql -o output.sql database
+```
 
 Unix/Linux cron script (`~/.crontab` or /etc/crontab) automatic periodical 
 backup to `$schemaName.'_'.date("Ymd_His", time()).'.sql'`: 
